@@ -1,0 +1,7 @@
+{
+  "name": "FractioX - Dynamic Fraction Trading Market",
+  "description": "Fast-paced financial fraction stock exchange game where traders buy, sell, and arbitrage shifting mathematical fractions and percentages in real time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
